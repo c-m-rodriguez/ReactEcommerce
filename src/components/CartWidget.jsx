@@ -6,7 +6,7 @@ const CartWidget = () => {
   return (
     <div>
         <Box as='button' borderRadius='md' bg='orange.400' color='white' px={4} h={8}>
-  Button
+         🛒 5 
 </Box>
     </div>
   )
